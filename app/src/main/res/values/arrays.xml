@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels">
+        <item>@string/General</item>
+        <item>@string/Entertainment</item>
+        <item>@string/Health</item>
+        <item>@string/Science</item>
+        <item>@string/Sports</item>
+        <item>@string/Technology</item>
+        <item>@string/Business</item>
+    </string-array>
+
+    <string-array name="values">
+        <item>@string/category_default</item>
+        <item>@string/category_entertainment</item>
+        <item>@string/category_health</item>
+        <item>@string/category_science</item>
+        <item>@string/category_sports</item>
+        <item>@string/category_technology</item>
+        <item>@string/category_business</item>
+
+
+    </string-array>
+
+
+</resources>

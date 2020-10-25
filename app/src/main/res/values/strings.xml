@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DailyNews</string>
+    <string name="error_message">"Error "</string>
+    <string name="no_internet_connection">no internert</string>
+    <string name="setting">Setting</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="actxion_refresh">Refresh</string>
+    <string name="News_Catagory">News Catagories</string>
+    <string name="category_key" translatable="false">category</string>
+    <string name="category_default" translatable="false">general</string>
+
+    <string name="category_entertainment" translatable="false">entertainment</string>
+    <string name="category_health" translatable="false">health</string>
+    <string name="category_science" translatable="false">science</string>
+    <string name="category_sports" translatable="false">sports</string>
+    <string name="category_technology" translatable="false">technology</string>
+    <string name="category_business" translatable="false">business</string>
+    <string name="General">General</string>
+    <string name="Entertainment">Entertainment</string>
+    <string name="Health">Health</string>
+    <string name="Science">Science</string>
+    <string name="Sports">Sports</string>
+    <string name="Technology">Technology</string>
+    <string name="Business">Business</string>
+</resources>
